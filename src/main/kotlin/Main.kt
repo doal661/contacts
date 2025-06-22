@@ -2,10 +2,7 @@ package my.contacts
 //import kotlin.io
 import java.io.File
 
-val file_path_resources: String = "src/main/resources/"
-
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+const val file_path_resources: String = "src/main/resources/"
 fun main() {
     input_data()
     print_data()
