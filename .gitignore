@@ -46,5 +46,6 @@ bin/
 
 ### In My Project ###
 !**/src/main/resources/
-/src/main/resources/contacts_list.txt
+contacts/src/main/resources/contacts_list.txt
+src/main/resources
 contacts_list.txt
