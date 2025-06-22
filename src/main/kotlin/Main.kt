@@ -4,6 +4,7 @@ import java.io.File
 
 const val file_path_resources: String = "src/main/resources/"
 fun main() {
+    println("x")
     input_data()
     print_data()
 }
